@@ -33,7 +33,7 @@
 
 
 ## 部署:
-### 镜像 `fscarmen/argo-x:latest`
+### 镜像 `suzannemall/argox:latest`
 
 ### PaaS 平台用到的变量:
  
